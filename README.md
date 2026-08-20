@@ -1,0 +1,1 @@
+This is shared groovy lib for jenkins_pipeline_terraform_ec2_dockerhub_java_maven_app project
